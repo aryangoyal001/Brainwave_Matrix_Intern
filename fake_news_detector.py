@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import pandas as pd
 from sklearn.model_selection import train_test_split
 from sklearn.feature_extraction.text import TfidfVectorizer
@@ -158,4 +157,3 @@ def main():
 if __name__ == "__main__":
     main()
 
->>>>>>> ac3d977149a57747c76bc645def1a4e393a4158a
